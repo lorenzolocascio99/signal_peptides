@@ -1,4 +1,4 @@
-#Detecting Signal peptides
+# Detecting Signal peptides
 
 
 Proteins synthesized within cells must be transported to specific compartments or organelles. This process is guided by hydrophobic signal peptides (SPs), which serve as "address tags" to direct the proteins to their destinations. Developing a model to predict the presence of these peptides could provide valuable insights into protein functions and interactions, especially when experimental data is limited, and may identify new potential targets.
