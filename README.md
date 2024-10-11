@@ -1,3 +1,6 @@
+#Detecting Signal peptides
+
+
 Proteins synthesized within cells must be transported to specific compartments or organelles. This process is guided by hydrophobic signal peptides (SPs), which serve as "address tags" to direct the proteins to their destinations. Developing a model to predict the presence of these peptides could provide valuable insights into protein functions and interactions, especially when experimental data is limited, and may identify new potential targets.
 
 To tackle this task, two models were tested: the Von Heijne algorithm, based on a position-specific weight matrix (PSWM), and a support vector machine (SVM). Both models were trained, validated using 5-fold cross-validation, and tested on the SignalP-5.0 datasets, utilizing data from the UniProtKB database.
